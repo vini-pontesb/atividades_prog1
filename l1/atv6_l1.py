@@ -1,0 +1,12 @@
+num1 = int(input("Selecione o primeiro número: "))
+num2 = int(input("Selecione o segundo número: "))
+num3 = int(input("Selecione o terceiro número: "))
+num4 = int(input("Selecione o quarto número: "))
+num5 = int(input("Selecione o quinto número: "))
+num6 = int(input("Selecione o sexto número: "))
+num7 = int(input("Selecione o sétimo número: "))
+num8 = int(input("Selecione o oitavo número: "))
+num9 = int(input("Selecione o nono número: "))
+num10 = int(input("Selecione o décimo número: "))
+soma = num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9 + num10
+print("A soma entre todos os números informados é:", soma)
